@@ -3,4 +3,7 @@ tojas
 liszt
 tészta
 leveskocka
+csoki
+
+
 
